@@ -9,7 +9,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Dia 1 - Página Inicial (Login)
-- [ ] Dia 2
+- [x] Dia 2 - State, novas páginas e navegação SPA vs a Tradicional
 - [ ] Dia 3
 - [ ] Dia 4
 - [ ] Dia 5
